@@ -18,10 +18,9 @@ jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 kiwisolver==1.4.8
 librosa
-llvmlite==0.44.0
 matplotlib==3.10.1
 networkx==3.4.2
-numba==0.56.4
+numba
 numpy==1.23.5
 packaging
 pandas==2.3.0
