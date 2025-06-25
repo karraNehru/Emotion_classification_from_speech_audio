@@ -155,7 +155,8 @@ This project includes an interactive Streamlit app that:
 - Accepts `.wav` audio uploads
 - Shows the predicted emotion
 
-(To be included in `app.py`)
+**App:**
+[Real-time-emotion-predictor-app](https://real-time-emotion-predictor.streamlit.app/)
 
 ---
 
