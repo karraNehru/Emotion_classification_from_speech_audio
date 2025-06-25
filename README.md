@@ -81,7 +81,7 @@ emotion_map = {
 - Each audio file is loaded using librosa
 - Generated Mel-spectrogram
 
-
+![Image](https://github.com/user-attachments/assets/748454eb-8938-4c7f-8834-5798d5d7e51a)
 
 
 ## Model Architecture
@@ -101,9 +101,9 @@ emotion_map = {
 
 | Metric          | Target       | Achieved   |
 |-----------------|--------------|------------|
-| Overall Accuracy| >80%         | 81%         |
-| F1 Score        | >80%         |  81%       |
-| Per-class Acc   | >75%         | Met for all classes except sad(74%) |
+| Overall Accuracy| >80%         | ✅81%         |
+| F1 Score        | >80%         |  ✅81%       |
+| Per-class Acc   | >75%         | ✅Met for all classes except sad(74%) |
 
 Includes detailed:
 - Classification report
@@ -133,7 +133,7 @@ weighted avg       0.82      0.81      0.81       491
 
 Install requirements: from requirements.txt
 
-### Train the Model
+### 🤖 Train the Model
 ```bash
 # Inside Jupyter Notebook
 Run the cells in `emotion_classification_2.ipynb`
@@ -154,7 +154,7 @@ python predict.py 03-02-01-01-01-01-01.wav emotion_b3_model.pth
 ```
 ---
 
-## Streamlit Web App
+## 🌐 Streamlit Web App
 
 This project includes an interactive Streamlit app that:
 - Accepts `.wav` audio uploads
