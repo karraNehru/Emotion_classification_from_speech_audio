@@ -59,6 +59,10 @@ emotion_map = {
     "08": "surprised"
 }
 ```
+
+![Image](https://github.com/user-attachments/assets/84c5fe73-d1d8-43b7-93dd-925effefde1f)
+
+
 2. Creating the DataFrame
 
 - Traverse both folders:
