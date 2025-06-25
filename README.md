@@ -120,7 +120,8 @@ Includes detailed:
    macro avg       0.81      0.83      0.81       491
 weighted avg       0.82      0.81      0.81       491
 ```
-
+**Confusion matrix:**
+![Image](https://github.com/user-attachments/assets/9c47370b-bec8-4203-871d-9fa121f6e70d)
 
 
 ## How to Run
