@@ -1,5 +1,5 @@
 
-# Emotion Classification on Speech Data
+# Emotion Classification from Speech audio
 
 This project implements a robust end-to-end deep learning pipeline for emotion classification using speech/audio data. It leverages Mel-spectrograms and EfficientNet-B2 to accurately recognize human emotions conveyed in voice recordings.
 
